@@ -75,8 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## My Role as Teammate
 
-- Gesture Recognition Array: You created a system to detect finger movements, using an array to represent the state of each finger (up as 1, down as 0). This is a crucial part of translating gestures into 
+- Gesture Recognition Array: I created a system to detect finger movements, using an array to represent the state of each finger (up as 1, down as 0). This is a crucial part of translating gestures into 
   commands for the robotic hand.
-- Backend Development: You implemented the backend using Flask, setting up communication between the frontend and the hardware (Arduino) for real-time interaction.
-- Frontend Development: You built the user interface, allowing users to operate the robotic hand through a web-based control panel.
+- Frontend Development: I built the user interface, allowing users to operate the robotic hand through a web-based control panel.
 
